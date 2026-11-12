@@ -4,10 +4,10 @@ Official public downloads for the LapCast Windows agent and Android remote-contr
 
 ## Latest release
 
-[Download LapCast v1.1.0](https://github.com/alokdangre/LapCast-releases/releases/tag/v1.1.0)
+[Download LapCast v1.2.0](https://github.com/alokdangre/LapCast-releases/releases/tag/v1.2.0)
 
-- **Windows:** `LapCast-Windows-v1.0.3.zip`
-- **Android:** `LapCast-Android-v1.1.0.apk`
+- **Windows:** `LapCast-Windows-v1.0.5.zip`
+- **Android:** `LapCast-Android-v1.2.0.apk`
 - **Integrity:** verify both files with the published `SHA256SUMS.txt`
 
 ## Install order
